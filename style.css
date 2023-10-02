@@ -1,0 +1,15 @@
+
+h1, h2,h3,h4,h5,p
+{
+    font-weight: 200;
+}
+
+.col 
+{
+    border: 1px solid;
+    text-align: center;
+    line-height: 50px;
+    font-size: 28px;
+    background-color: tomato;
+    color: white;
+}

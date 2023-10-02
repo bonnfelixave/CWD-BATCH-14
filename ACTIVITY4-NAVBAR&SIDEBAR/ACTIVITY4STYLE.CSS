@@ -1,0 +1,20 @@
+.image-with-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+
+.image-item {
+    text-align: center;
+    width: 30%; /* Adjust the width of each item as needed */
+}
+
+.image-item img {
+    max-width: 50px; /* Make the images very small */
+    height: auto;
+}
+
+.image-item p {
+    margin-top: 10px;
+}
